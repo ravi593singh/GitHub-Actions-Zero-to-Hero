@@ -1,6 +1,7 @@
 # app.py
 # This is a test commit
 # First ci workflows
+# addition functionality
 def add(a, b):
     return a + b
 
